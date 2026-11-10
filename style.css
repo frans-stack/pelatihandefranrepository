@@ -1,6 +1,6 @@
 body {
   background-color: #FFFFE0; /* Warna Kuning cerah */
-  font-famiy: Arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca*/
+  font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca*/
   color: #191970; /* warna teks utama (Biru Gelap) */
 }
 
@@ -10,7 +10,7 @@ body {
    padding: 20px;
    background-color: white;
    border-radius: 15px; /* membuat sudut menjadi melelngkung */
-   box-shadow: 0 4px 8px rgba (0,0,0,0,1); */ Efek bayangan */
+   box-shadow: 0 4px 8px rgba (0,0,0,0,1); /* Efek bayangan */
 }
 
 
